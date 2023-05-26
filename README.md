@@ -8,7 +8,7 @@
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/divanov11/Django-React-NotesApp.git
+git clone https://github.com/enthusiastica/Django-React-NotesApp.git
 
 ```
 
@@ -50,7 +50,7 @@ python manage.py runserver
 ### App Preview :
 
 <div align="center">
-<img width="50%" src="https://www.linkpicture.com/q/Notes.png"/>
+<img width="50%" src="./preview.jpg"/>
 </div>
 
 #
